@@ -4,7 +4,7 @@ var A = [];
 var b = [];
 
 var rounded = function (number) {
-  return +number.toFixed(3);
+  return +number.toFixed(2);
 };
 
 function roundMatrix(matrix) {
