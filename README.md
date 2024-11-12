@@ -1,2 +1,0 @@
-# ZabSU_Math
-
